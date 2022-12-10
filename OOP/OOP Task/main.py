@@ -1,4 +1,6 @@
 """ My first OOP task! """
+
+
 class Documents:
     def __init__(self):
         self.enters = [
