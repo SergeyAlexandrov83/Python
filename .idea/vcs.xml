@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Requests/Task-1---Super_Heroes" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Requests/Task-2---Yandex_Disc" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Requests/Task-3---Stackowerflow" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Курсовые/Backup_Copying" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Requests/Task-1---Super_Heroes" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Requests/Task-2---Yandex_Disc" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Requests/Task-3---Stackowerflow" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Курсовые/Backup_Copying" vcs="" />
   </component>
 </project>
