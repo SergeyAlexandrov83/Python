@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Requests/Task-1---Super_Heroes" vcs="" />
     <mapping directory="$PROJECT_DIR$/Requests/Task-2---Yandex_Disc" vcs="" />
     <mapping directory="$PROJECT_DIR$/Requests/Task-3---Stackowerflow" vcs="" />
