@@ -7,7 +7,7 @@ res = width, height = 1600, 900
 # with modern video card with CUDA support - increase res '1600, 900' and set 'ti.init(arch=ti.cuda)'
 offset = np.array([1.3 * width, height]) // 2
 # texture
-texture = pg.image.load('img/texture_3.jpg')
+texture = pg.image.load('img/texture_1.jpg')
 texture_size = min(texture.get_size()) - 1
 texture_array = pg.surfarray.array3d(texture).astype(dtype=np.uint32)
 

@@ -25,7 +25,7 @@ class SymbolColumn:
         self.symbols = [Symbol(x, i, self.speed) for i in range(y, y - FONT_SIZE * self.column_height, -FONT_SIZE)]
 
     def draw(self):
-        [symbol.draw('green') if i else symbol.draw('white') for i, symbol in enumerate(self.symbols)]
+        [symbol.draw('green') if i else symbol.draw('red') for i, symbol in enumerate(self.symbols)]
 
 
 os.environ['SDL_VIDEO_CENTERED'] = '1'
