@@ -30,5 +30,3 @@ def math_solver(solve: str):
 string: str = input("Введите выражение: ")
 print(math_solver(string))
 print(eval(string))
-
-
