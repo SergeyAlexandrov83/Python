@@ -23,7 +23,7 @@ def find_publisher_by_id(ses):
 
 
 def find_publisher_by_name(ses):
-    result = input('Enter publisher name  ')
+    result = input('Enter publisher name ')
     query = ses.query(Publisher).filter(Publisher.name == result)
     for i in query.all():
         return print(f'Publisher {result} -> id {i.id}')
